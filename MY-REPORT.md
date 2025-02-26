@@ -1,15 +1,15 @@
 ![GenI-banner](https://github.com/genilab-fau/genilab-fau.github.io/blob/8d6ab41403b853a273983e4c06a7e52229f43df5/images/genilab-banner.png?raw=true)
 
-Advanced Techniques in Prompt Engineering: Comparative Analysis and Optimization Strategies
+# Advanced Techniques in Prompt Engineering: Comparative Analysis and Optimization Strategies
 
 1-liner description of your project
 
 Optimizing prompt engineering techniques for large language models through comparative analysis, parameter tuning, and automation strategies.
 
 * Authors: 
-Naga Sai Krishna Sujith Nekkanti (Z23751414) nnekkaanti2023@fau.edu,
-Rikhil Kumar Reddy Yachavarapu (Z23746767) ryachavarapu2023@fau.edu,
-Shravani Jakkula  (Z23737190) sjakkula2023@fau.edu
+* Naga Sai Krishna Sujith Nekkanti (Z23751414) nnekkanti2023@fau.edu,
+* Rikhil Kumar Reddy Yachavarapu (Z23746767) ryachavarapu2023@fau.edu,
+* Shravani Jakkula  (Z23737190) sjakkula2023@fau.edu
 * Academic Supervisor: [Dr. Fernando Koch](http://www.fernandokoch.me)
 
   
